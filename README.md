@@ -152,7 +152,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|1|`[我的博客](http://blog.csdn.net/ "悬停显示")`|[我的博客](http://blog.csdn.net/ "悬停显示")|
 |2|`[我的知乎][zhihu] `|[我的知乎][zhihu] |
 
 语法2由两部分组成：
@@ -327,17 +327,23 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 效果如下：
 
 ```diff
-+ 鸟宿池边树，僧敲月下门
-- 鸟宿池边树，僧推月下门
++ 滚滚长江东逝水，浪花淘尽英雄。
++ 是非成败转头空。
++ 青山依旧在，几度夕阳红。
++ 白发渔樵江渚上，惯看秋月与春风。
++ 一壶浊酒喜相逢。
++ 古今多少事，都付笑谈中。
+
+- 白发鱼桥江煮上，笑看秋月与春风！
 ```
 
 
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
+[csdn]:http://blog.csdn.net/ "我的博客"
+[zhihu]:https://www.zhihu.com/people/ "我的知乎，欢迎关注"
+[weibo]:http://weibo.com/
 [baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+[foryou]:https://github.com//ImageCache/raw/master/Logo/foryou.gif
